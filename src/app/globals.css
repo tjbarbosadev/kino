@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@source inline("grid-cols-{1..12} grid-rows-{1..12}");
 
 :root {
   --background: #ffffff;
